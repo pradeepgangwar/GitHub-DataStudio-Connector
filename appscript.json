@@ -1,0 +1,12 @@
+{
+    "dataStudio": {
+      "name": "Pradeep GitHub Connector",
+      "logoUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "company": "Pradeep",
+      "companyUrl": "https://pradeepgangwar.github.io/",
+      "addonUrl": "https://github.com/pradeepgangwar/GitHub-DataStudio-Connector",
+      "supportUrl": "https://github.com/pradeepgangwar",
+      "description": "Github org analyzer.",
+      "sources": ["github"]
+    }
+  }
